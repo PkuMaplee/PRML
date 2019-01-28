@@ -1,0 +1,5 @@
+- $ cd /path/to/PRML
+- $ pip3 install --user .
+
+
+- Rember to add "prml" path to "PYTHONPATH" using export
